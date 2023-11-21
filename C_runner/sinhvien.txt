@@ -1,0 +1,7 @@
+Admin     Admin12   0.0  
+Cong      cong12    8.0  
+Hoang     hamai     10.0 
+Kien      kien12    9.0  
+Linhnv    linh123   9.0  
+Minh      hung2003  8.0  
+Phong     phongph   8.0  
